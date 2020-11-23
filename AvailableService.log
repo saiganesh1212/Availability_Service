@@ -1,0 +1,276 @@
+﻿INFO  03:55:17 Application started. Press Ctrl+C to shut down.
+INFO  03:55:17 Application started. Press Ctrl+C to shut down.
+INFO  03:55:17 Hosting environment: Development
+INFO  03:55:17 Hosting environment: Development
+INFO  03:55:17 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  03:55:17 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  03:56:03 Getting all flights
+INFO  03:57:02 Getting availability of flight with id 1
+INFO  03:57:21 Reducing the capacity of Flight with id 1
+INFO  03:57:23 Successfully reduced capacity of id 1
+INFO  03:57:32 Getting availability of flight with id 1
+INFO  06:25:06 Application started. Press Ctrl+C to shut down.
+INFO  06:25:06 Application started. Press Ctrl+C to shut down.
+INFO  06:25:06 Hosting environment: Development
+INFO  06:25:06 Hosting environment: Development
+INFO  06:25:06 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  06:25:06 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  06:35:38 Application started. Press Ctrl+C to shut down.
+INFO  06:35:38 Application started. Press Ctrl+C to shut down.
+INFO  06:35:38 Hosting environment: Development
+INFO  06:35:38 Hosting environment: Development
+INFO  06:35:38 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  06:35:38 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  06:37:40 Application started. Press Ctrl+C to shut down.
+INFO  06:37:40 Application started. Press Ctrl+C to shut down.
+INFO  06:37:40 Hosting environment: Development
+INFO  06:37:40 Hosting environment: Development
+INFO  06:37:40 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  06:37:40 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  06:38:43 Getting all flights
+INFO  06:43:18 Getting availability of flight with id 1
+INFO  06:43:36 Getting availability of flight with id 1
+INFO  06:43:37 Reducing the capacity of Flight with id 1
+INFO  06:43:39 Successfully reduced capacity of id 1
+INFO  06:43:50 Getting availability of flight with id 1
+INFO  02:04:54 Application started. Press Ctrl+C to shut down.
+INFO  02:04:54 Application started. Press Ctrl+C to shut down.
+INFO  02:04:54 Hosting environment: Development
+INFO  02:04:54 Hosting environment: Development
+INFO  02:04:54 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:04:54 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:06:20 Getting all flights
+INFO  02:06:47 Getting all flights
+INFO  02:06:51 Getting all flights
+INFO  02:06:56 Getting availability of flight with id 1
+INFO  02:17:42 Application started. Press Ctrl+C to shut down.
+INFO  02:17:42 Application started. Press Ctrl+C to shut down.
+INFO  02:17:42 Hosting environment: Development
+INFO  02:17:42 Hosting environment: Development
+INFO  02:17:42 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:17:42 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:18:31 Getting availability of flight with id 1
+INFO  02:42:27 Application started. Press Ctrl+C to shut down.
+INFO  02:42:28 Application started. Press Ctrl+C to shut down.
+INFO  02:42:28 Hosting environment: Development
+INFO  02:42:28 Hosting environment: Development
+INFO  02:42:28 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:42:28 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:42:31 Getting all flights
+INFO  03:04:31 Application started. Press Ctrl+C to shut down.
+INFO  03:04:31 Application started. Press Ctrl+C to shut down.
+INFO  03:04:31 Hosting environment: Development
+INFO  03:04:31 Hosting environment: Development
+INFO  03:04:31 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  03:04:31 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  03:04:33 Getting all flights
+INFO  03:31:29 Application started. Press Ctrl+C to shut down.
+INFO  03:31:29 Application started. Press Ctrl+C to shut down.
+INFO  03:31:29 Hosting environment: Development
+INFO  03:31:29 Hosting environment: Development
+INFO  03:31:29 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  03:31:29 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  03:40:03 Application started. Press Ctrl+C to shut down.
+INFO  03:40:03 Application started. Press Ctrl+C to shut down.
+INFO  03:40:03 Hosting environment: Development
+INFO  03:40:03 Hosting environment: Development
+INFO  03:40:03 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  03:40:03 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  04:07:44 Application started. Press Ctrl+C to shut down.
+INFO  04:07:44 Application started. Press Ctrl+C to shut down.
+INFO  04:07:44 Hosting environment: Development
+INFO  04:07:44 Hosting environment: Development
+INFO  04:07:44 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  04:07:44 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  04:08:31 Getting availability of flight with id 1
+INFO  04:09:35 Getting all flights
+INFO  12:31:33 Application started. Press Ctrl+C to shut down.
+INFO  12:31:33 Application started. Press Ctrl+C to shut down.
+INFO  12:31:33 Hosting environment: Development
+INFO  12:31:33 Hosting environment: Development
+INFO  12:31:33 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  12:31:33 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  12:49:35 Application started. Press Ctrl+C to shut down.
+INFO  12:49:35 Application started. Press Ctrl+C to shut down.
+INFO  12:49:35 Hosting environment: Development
+INFO  12:49:35 Hosting environment: Development
+INFO  12:49:35 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  12:49:35 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  12:54:26 Application started. Press Ctrl+C to shut down.
+INFO  12:54:26 Application started. Press Ctrl+C to shut down.
+INFO  12:54:26 Hosting environment: Development
+INFO  12:54:26 Hosting environment: Development
+INFO  12:54:26 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  12:54:26 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  12:58:47 Application started. Press Ctrl+C to shut down.
+INFO  12:58:47 Application started. Press Ctrl+C to shut down.
+INFO  12:58:47 Hosting environment: Development
+INFO  12:58:47 Hosting environment: Development
+INFO  12:58:47 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  12:58:47 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:01:39 Application started. Press Ctrl+C to shut down.
+INFO  01:01:39 Application started. Press Ctrl+C to shut down.
+INFO  01:01:39 Hosting environment: Development
+INFO  01:01:39 Hosting environment: Development
+INFO  01:01:39 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:01:39 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:04:48 Application started. Press Ctrl+C to shut down.
+INFO  01:04:48 Application started. Press Ctrl+C to shut down.
+INFO  01:04:48 Hosting environment: Development
+INFO  01:04:48 Hosting environment: Development
+INFO  01:04:48 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:04:48 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:14:13 Application started. Press Ctrl+C to shut down.
+INFO  01:14:13 Application started. Press Ctrl+C to shut down.
+INFO  01:14:13 Hosting environment: Development
+INFO  01:14:13 Hosting environment: Development
+INFO  01:14:13 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:14:13 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:16:34 Application started. Press Ctrl+C to shut down.
+INFO  01:16:34 Application started. Press Ctrl+C to shut down.
+INFO  01:16:34 Hosting environment: Development
+INFO  01:16:34 Hosting environment: Development
+INFO  01:16:34 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:16:34 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:17:14 Getting all flights
+INFO  01:22:24 Application started. Press Ctrl+C to shut down.
+INFO  01:22:24 Application started. Press Ctrl+C to shut down.
+INFO  01:22:24 Hosting environment: Development
+INFO  01:22:24 Hosting environment: Development
+INFO  01:22:24 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:22:24 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:23:45 Getting all flights
+INFO  01:24:13 Getting all flights
+INFO  01:25:44 Application started. Press Ctrl+C to shut down.
+INFO  01:25:44 Application started. Press Ctrl+C to shut down.
+INFO  01:25:44 Hosting environment: Development
+INFO  01:25:44 Hosting environment: Development
+INFO  01:25:44 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:25:44 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:26:41 Getting all flights
+INFO  01:31:49 Application started. Press Ctrl+C to shut down.
+INFO  01:31:49 Application started. Press Ctrl+C to shut down.
+INFO  01:31:49 Hosting environment: Development
+INFO  01:31:49 Hosting environment: Development
+INFO  01:31:49 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:31:49 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:33:00 Getting all flights
+INFO  01:36:27 Application started. Press Ctrl+C to shut down.
+INFO  01:36:27 Application started. Press Ctrl+C to shut down.
+INFO  01:36:27 Hosting environment: Development
+INFO  01:36:27 Hosting environment: Development
+INFO  01:36:27 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:36:27 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:38:32 Application started. Press Ctrl+C to shut down.
+INFO  01:38:32 Application started. Press Ctrl+C to shut down.
+INFO  01:38:32 Hosting environment: Development
+INFO  01:38:32 Hosting environment: Development
+INFO  01:38:32 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:38:32 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:39:36 Getting all flights
+INFO  01:41:11 Application started. Press Ctrl+C to shut down.
+INFO  01:41:11 Application started. Press Ctrl+C to shut down.
+INFO  01:41:11 Hosting environment: Development
+INFO  01:41:11 Hosting environment: Development
+INFO  01:41:11 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:41:11 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:46:03 Application started. Press Ctrl+C to shut down.
+INFO  01:46:03 Application started. Press Ctrl+C to shut down.
+INFO  01:46:03 Hosting environment: Development
+INFO  01:46:03 Hosting environment: Development
+INFO  01:46:03 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:46:03 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:46:26 Getting all flights
+INFO  02:08:36 Application started. Press Ctrl+C to shut down.
+INFO  02:08:36 Application started. Press Ctrl+C to shut down.
+INFO  02:08:36 Hosting environment: Development
+INFO  02:08:36 Hosting environment: Development
+INFO  02:08:36 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:08:36 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:09:53 Getting all flights
+INFO  02:13:18 Application started. Press Ctrl+C to shut down.
+INFO  02:13:18 Application started. Press Ctrl+C to shut down.
+INFO  02:13:18 Hosting environment: Development
+INFO  02:13:18 Hosting environment: Development
+INFO  02:13:18 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:13:18 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:14:20 Getting all flights
+INFO  02:17:24 Application started. Press Ctrl+C to shut down.
+INFO  02:17:24 Application started. Press Ctrl+C to shut down.
+INFO  02:17:24 Hosting environment: Development
+INFO  02:17:24 Hosting environment: Development
+INFO  02:17:24 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:17:24 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:18:57 Getting all flights
+INFO  02:23:46 Application started. Press Ctrl+C to shut down.
+INFO  02:23:46 Application started. Press Ctrl+C to shut down.
+INFO  02:23:46 Hosting environment: Development
+INFO  02:23:46 Hosting environment: Development
+INFO  02:23:46 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:23:46 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:24:15 Getting all flights
+INFO  02:26:19 Application started. Press Ctrl+C to shut down.
+INFO  02:26:19 Application started. Press Ctrl+C to shut down.
+INFO  02:26:19 Hosting environment: Development
+INFO  02:26:19 Hosting environment: Development
+INFO  02:26:20 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:26:20 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:26:43 Getting all flights
+INFO  02:32:26 Application started. Press Ctrl+C to shut down.
+INFO  02:32:26 Application started. Press Ctrl+C to shut down.
+INFO  02:32:26 Hosting environment: Development
+INFO  02:32:26 Hosting environment: Development
+INFO  02:32:26 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:32:26 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  02:33:03 Getting all flights
+INFO  06:22:46 Application started. Press Ctrl+C to shut down.
+INFO  06:22:46 Application started. Press Ctrl+C to shut down.
+INFO  06:22:46 Hosting environment: Development
+INFO  06:22:46 Hosting environment: Development
+INFO  06:22:46 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  06:22:46 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  06:25:07 Getting all flights
+INFO  06:26:31 Getting availability of flight with id 1
+INFO  06:27:11 Reducing the capacity of Flight with id 1
+INFO  06:27:13 Successfully reduced capacity of id 1
+INFO  01:47:02 Application started. Press Ctrl+C to shut down.
+INFO  01:47:02 Application started. Press Ctrl+C to shut down.
+INFO  01:47:02 Hosting environment: Development
+INFO  01:47:02 Hosting environment: Development
+INFO  01:47:02 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:47:02 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:49:08 Getting all flights
+INFO  01:50:12 Getting availability of flight with id 2
+INFO  01:50:29 Reducing the capacity of Flight with id 2
+INFO  01:50:30 Successfully reduced capacity of id 2
+INFO  01:51:14 Getting availability of flight with id 2
+INFO  01:51:43 Reducing the capacity of Flight with id 2
+INFO  01:51:43 Successfully reduced capacity of id 2
+INFO  01:53:57 Application started. Press Ctrl+C to shut down.
+INFO  01:53:57 Application started. Press Ctrl+C to shut down.
+INFO  01:53:57 Hosting environment: Development
+INFO  01:53:57 Hosting environment: Development
+INFO  01:53:57 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:53:57 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  01:54:55 Getting all flights
+INFO  01:55:22 Getting availability of flight with id 2
+INFO  01:55:43 Reducing the capacity of Flight with id 2
+INFO  01:55:43 Successfully reduced capacity of id 2
+INFO  06:45:35 Application started. Press Ctrl+C to shut down.
+INFO  06:45:35 Application started. Press Ctrl+C to shut down.
+INFO  06:45:35 Hosting environment: Development
+INFO  06:45:35 Hosting environment: Development
+INFO  06:45:35 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  06:45:35 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  06:48:04 Getting all flights
+INFO  06:48:17 Getting all flights
+INFO  06:54:37 Application started. Press Ctrl+C to shut down.
+INFO  06:54:37 Application started. Press Ctrl+C to shut down.
+INFO  06:54:37 Hosting environment: Development
+INFO  06:54:37 Hosting environment: Development
+INFO  06:54:37 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  06:54:37 Content root path: C:\Users\Ganesh\source\repos\Availability_Service
+INFO  06:56:03 Getting all flights
+INFO  06:57:11 Getting availability of flight with id 2
+INFO  06:57:54 Reducing the capacity of Flight with id 2
+INFO  06:58:07 Successfully reduced capacity of id 2
